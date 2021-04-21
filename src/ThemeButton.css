@@ -1,0 +1,16 @@
+button {
+  height: 100px;
+  width: 200px;
+  font-size: 22px;
+  cursor: pointer;
+}
+
+.dark {
+  color: white;
+  background: #000;
+}
+
+.light {
+  color: black;
+  background: #fff;
+}
